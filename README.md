@@ -15,7 +15,8 @@ Affected people of covid 19 are differentiated by active ,confirmed , deceased r
 Total number of people vaccinated doses are also administrated
 The tabular column reffered here is mentioned the number of people affected by covid 19 are differentiated by state wse  and differentiated  by active conformed deceased recovered
 Indian map mentioned here indicates th states with coloured effects menton the covid affected and delivers contents of states
-The pie chart displays the record of people high-flown for covid. We can clearly observe the covid record in India in such states. 
+The pie chart displays the record of people high-flown for covid. We can clearly observe the covid record in India in such states.
+The map clearly shows the variation of increment and decrement of covid in India.
  
  
 Output/ Post Condition: 
