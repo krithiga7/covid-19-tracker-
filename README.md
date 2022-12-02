@@ -25,7 +25,10 @@ Secured website  
 Covid 19 tracker website may not access any private and sensitive data
 
 Performance 
- Peak Load Performance (during Festival days, National holidays etc) 
+1.Peak Load Performance (durng covid period)
+2.Admin application<2sec
+3.Non peak load performance
+4.admin application<2sec
 
 Availability 
        99.99 % Availability 
