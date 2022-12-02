@@ -111,7 +111,7 @@ a.Attributes:
              2.date:int
  
 Controller Layer:
-2.Singnup Controller:This class control the user signup
+2.Signup Controller:This class control the user signup
 a.Methods:
            1. SaveUser(UserModel user):This method helps to store users in the database and return true or false based on the database transactions.  
 
