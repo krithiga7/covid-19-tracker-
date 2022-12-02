@@ -66,7 +66,7 @@ WEBSITE ASSUMPTIONS: 
 
  
 VALIDATIONS: 
-1.   Website does’nt require any validation
+1.   Website doesn't require any validation
 
 PROJECT TASKS: 
 API Endpoints 
