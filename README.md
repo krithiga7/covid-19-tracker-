@@ -70,7 +70,8 @@ USER:
 Action Url Method Response.
 1. get in website.
 2. Signup/signup POST true/false.
-3. insert date and time.
+3. insert date and time
+4. insert place
 ADMIN:
 Action URL Method Response.
 1.get all data/admin GET array of data.
@@ -83,6 +84,15 @@ PUBLIC: 
 
  Ids: 
 userNavigation bar \
+
+2.Signup:design a signup page component,where the new user has options to signup by providing their basic details
+a.Ids:
+     1.User name
+     2.date
+     3.place
+     3.covid tracker
+     4.submit
+
 
 BACKEND: 
 Class and Method description.
