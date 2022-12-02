@@ -4,7 +4,7 @@ OBJECTIVE: 
 
 Users of the System: 
 1.ADMIN 
-2.CUSTOMER
+2.USER
 
 FUNCTIONAL REQUIREMENTS:           
 1. Additional information on covid 19 IS given in read more
