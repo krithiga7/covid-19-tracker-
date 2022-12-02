@@ -15,9 +15,7 @@ Affected people of covid 19 are differentiated by active ,confirmed , deceased r
 Total number of people vaccinated doses are also administrated
 The tabular column reffered here is mentioned the number of people affected by covid 19 are differentiated by state wse  and differentiated  by active conformed deceased recovered
 Indian map mentioned here indicates th states with coloured effects menton the covid affected and delivers contents of states
-The pie chart displays the record of people high-flown for covid. We can clearly observe the covid record in India in such states.
-The map clearly shows the variation of increment and decrement of covid in India.
-The site also shows the decrease and increase in the economic rate during the covid period 
+ .
  
  
 Output/ Post Condition: 
@@ -35,7 +33,7 @@ Performance 
 4.admin application<2sec
 
 Availability 
-       99.99 percentage availability 
+       99.99 % Availability 
 
 Standard Features 
        Scalability 
@@ -93,6 +91,22 @@ Ids: 
 userNavigation bar \
 
 Backend: 
+Class and Method description:
+
+Model Layer:
+1.User Model:This class store the user type and date information.
+a.Attributes:
+             1.user name: string
+             2.date:int
+Controller Layer:
+2.Singnup Controller:This class control the user signup
+a.Methods:
+           1. SaveUser(UserModel user):  
+
+
+
+
+
 
                    
 
