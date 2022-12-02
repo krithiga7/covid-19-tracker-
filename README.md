@@ -10,7 +10,7 @@ FUNCTIONAL REQUIREMENTS:           
 1.Additional information on covid 19 IS given in read more.
 2.Each side navigation icon has its specific contents.
 3.Vaccinated and non-vaccinated are also mentioned with the percentage(%).
-4.Vaccine: 1st  and 2nd dose are vaccinated by 54.9% of the people in India currently.
+4.Vaccine: 1st and 2nd dose are vaccinated by 54.9% of the people in India currently.
 5.Affected people of covid 19 are differentiated by active,confirmed,deceased,recovered.
 6.The total number of people vaccinated doses are also administrated.
 7.The tabular column referred here is mentioned the number of people affected by covid 19 are differentiated by state wise  and differentiated by active,conformed, deceased,recovered.
