@@ -7,24 +7,24 @@ Users of the System: 
 2.   CUSTOMER
 
 FUNCTIONAL REQUIREMENTS:           
- Additional information on covid 19 are given in read more
-Each side navigation icons has its own specific contents
-Vaccinated and non vaccinated are also mentioned with the percentage(%)
-Vaccine: 1st  and 2nd dose are vaccinated by 54.9% of the people in india currently
-Affected people of covid 19 are differentiated by active ,confirmed , deceased, recovered.
-Total number of people vaccinated doses are also administrated
-The tabular column referred here is mentioned the number of people affected by covid 19 are differentiated by state wise  and differentiated  by active,conformed, deceased,recovered.
-Indian map mentioned here indicates the states with coloured effects mention the covid affected and delivers contents of states.
-The site shows the increase and decrease in the economic changes during covid period.
+1. Additional information on covid 19 are given in read more
+2.Each side navigation icons has its own specific contents
+3.Vaccinated and non vaccinated are also mentioned with the percentage(%)
+4.Vaccine: 1st  and 2nd dose are vaccinated by 54.9% of the people in india currently
+5.Affected people of covid 19 are differentiated by active ,confirmed , deceased, recovered.
+6.Total number of people vaccinated doses are also administrated
+7.The tabular column referred here is mentioned the number of people affected by covid 19 are differentiated by state wise  and differentiated  by active,conformed, deceased,recovered.
+8.Indian map mentioned here indicates the states with coloured effects mention the covid affected and delivers contents of states.
+9.The site shows the increase and decrease in the economic changes during covid period.
  
  
 OUTPUTt/ POST CONDIYION: 
 Covid  19 tracker with real time data and easy to access website
 
 NON-FUNCTIONAL REQUIREMENTS:
-Security 
-Secured website  
-Covid 19 tracker website may not access any private and sensitive data
+1.Security 
+2.Secured website  
+3.Covid 19 tracker website may not access any private and sensitive data
 
 PERFORMANCE
 1.Peak Load Performance (durng covid period)
@@ -36,11 +36,11 @@ AVAILABILITY
        99.99 % Availability 
 
 STANDARD FEATURES:
-       Scalability 
-        Maintainability 
-        Usability 
-        Availability 
-        Failover 
+       1.Scalability 
+       2.Maintainability 
+       3.Usability 
+       4.Availability 
+       5.Failover 
 
 LOGGING AND AUDITING:
  The system should support logging(app/web/DB) & auditing at all levels 
@@ -52,9 +52,9 @@ Browser Compatible 
 All latest browsers 
  
 TECHNOLOGY STACK:
-HTML
-CSS
-Java Script
+1.HTML
+2.CSS
+3.Java Script
  
 
 WEBSITE ASSUMPTIONS: 
@@ -94,7 +94,7 @@ Action URL Method Response.
 
 
 
-FRONTENDd:  
+FRONTEND:  
 PUBLIC: 
 
 1.   Dashboard / Home: Design a home page component named (Name the component  HomePage for react app. Once the component is created in react app, name the jsx file as same as component name i.e HomePage.jsx file) that has the navigation bar and lists all the available products as grid elements with appropriate filter options. 
