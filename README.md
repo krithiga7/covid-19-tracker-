@@ -20,22 +20,22 @@ FUNCTIONAL REQUIREMENTS:           
 11.covid tracker enables public to see the variance of the conformed cases to stay cautious and also red alert will be shown
  
  
-OUTPUT/ POST CONDITION: 
+OUTPUT/ POST CONDITION:
 Covid  19 tracker with real time data and easy to access website
 
 NON-FUNCTIONAL REQUIREMENTS:
-1.Security. 
-2.Secured website.  
-3.Covid 19 tracker website may not access any private and sensitive data
+1. Security. 
+2. Secured website.  
+3. Covid 19 tracker website may not access any private and sensitive data
 
 PERFORMANCE:
-1.Peak Load Performance (durng covid period)
-2.Admin application<2sec
-3.Non peak load performance
-4.admin application<2sec
+1. Peak Load Performance (durng covid period)
+2. Admin application<2sec
+3. Non peak load performance
+4. admin application<2sec
 
 AVAILABILITY:
-       99.99 % Availability 
+       1. 99.99 % Availability 
 
 STANDARD FEATURES:
        1.Scalability 
