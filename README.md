@@ -62,7 +62,7 @@ WEBSITE ASSUMPTIONS: 
 5.   queries box is inserted at the bottom right corner of the website.
 
 VALIDATIONS: 
-1.   Website does’nt require any validation
+1.   Website doesn't require any validation
 
 PROJECT TASKS: 
 API Endpoints 
