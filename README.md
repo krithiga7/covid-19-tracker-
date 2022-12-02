@@ -99,7 +99,8 @@ PUBLIC: 
 
 1.   Dashboard / Home: Design a home page component named (Name the component  HomePage for react app. Once the component is created in react app, name the jsx file as same as component name i.e HomePage.jsx file) that has the navigation bar and lists all the available products as grid elements with appropriate filter options. 
 Ids: 
-userNavigation bar \
+userNavigation bar 
+user id name
 
 BACKEND: 
 Class and Method description:
