@@ -17,6 +17,7 @@ The tabular column reffered here is mentioned the number of people affected by c
 Indian map mentioned here indicates th states with coloured effects menton the covid affected and delivers contents of states
 The pie chart displays the record of people high-flown for covid. We can clearly observe the covid record in India in such states.
 The map clearly shows the variation of increment and decrement of covid in India.
+The site also shows the decrease and increase in the economic rate during the covid period 
  
  
 Output/ Post Condition: 
