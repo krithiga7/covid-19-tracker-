@@ -18,7 +18,7 @@ FUNCTIONAL REQUIREMENTS:           
 9.The site shows the increase and decrease in the economic changes during covid period.
  
  
-OUTPUTT/ POST CONDITION: 
+OUTPUT/ POST CONDITION: 
 Covid  19 tracker with real time data and easy to access website
 
 NON-FUNCTIONAL REQUIREMENTS:
