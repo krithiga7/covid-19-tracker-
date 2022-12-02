@@ -17,7 +17,7 @@ FUNCTIONAL REQUIREMENTS:           
 8.Indian map mentioned here indicates the states with coloured effects mention the covid affected and delivers contents of states.
 9.The site shows the increase and decrease in the economic changes during covid period.
 10.this website enables the availability of hospitals
-11
+11.covid tracker enables public to see the variance of the conformed cases to stay cautious and also red alert will be shown
  
  
 OUTPUT/ POST CONDITION: 
