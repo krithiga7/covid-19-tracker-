@@ -19,42 +19,42 @@ The site shows the increase and decrease in the economic changes during covid pe
  
  
 Output/ Post Condition: 
-Covid  19 tracker with real time data and easy to access website
+Covid  19 tracker with real time data and easy to access website.
 
 Non-Functional Requirements:
-Security 
-Secured website  
-Covid 19 tracker website may not access any private and sensitive data
+1.Security 
+2.Secured website  
+3.Covid 19 tracker website may not access any private and sensitive data.
 
-Performance 
+Performance:
 1.Peak Load Performance (durng covid period)
 2.Admin application<2sec
 3.Non peak load performance
 4.admin application<2sec
 
-Availability 
+Availability:
        99.99 % Availability 
 
-Standard Features 
-       Scalability 
-        Maintainability 
-        Usability 
-        Availability 
-        Failover 
+Standard Features:
+       1.Scalability 
+       2. Maintainability 
+       3. Usability 
+       4. Availability 
+       5. Failover 
 
-Logging & Auditing 
+Logging & Auditing:
  The system should support logging(app/web/DB) & auditing at all levels 
 
-Cloud 
- The Solution should be made Cloud-ready and should have a minimum impact when moving away to Cloud infrastructure 
+Cloud:
+ The Solution should be made Cloud-ready and should have a minimum impact when moving away to Cloud infrastructure.
 
-Browser Compatible 
+Browser Compatible:
 All latest browsers 
  
-Technology Stack 
-HTML
-CSS
-Java Script
+Technology Stack:
+1.HTML
+2.CSS
+3.Java Script
  
 
 Website assumptions: 
@@ -68,7 +68,7 @@ Website assumptions: 
 Validations: 
 1.   Website does’nt require any validation
 
-P roject Tasks: 
+Project Tasks: 
 API Endpoints 
 User:
 Action Url Method Response
