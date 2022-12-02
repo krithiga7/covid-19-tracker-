@@ -9,9 +9,9 @@ Users of the System: 
 Functional Requirements:           
  Additional information on covid 19 are given in read more
 Each side navigation icons has its own specific contents
-Vaccinated and non vaccinated are also mentioned with the percentage
+Vaccinated and non-vaccinated are also mentioned with the percentage
 Vaccine 1st  and 2nd dose are vaccinated by 54.9% of the people in india currently
-Affected people of covid 19 are differentiated by active ,confirmed , deceased recovered
+Afected people of covid 19 are differentiated by active, confirmed, deceased , recovered
 Total number of people vaccinated doses are also administrated
 The tabular column reffered here is mentioned the number of people affected by covid 19 are differentiated by state wse  and differentiated  by active conformed deceased recovered
 Indian map mentioned here indicates the states with coloured effects menton the covid affected and delivers contents of states.
