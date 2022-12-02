@@ -75,8 +75,7 @@ Action Url Method Response
 1. get in website
 2. Signup/signup POST true/false
 3. insert date and time
-4. 
-5. 
+
 
 
 
