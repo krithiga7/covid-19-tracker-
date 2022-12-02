@@ -8,16 +8,16 @@ Users of the System: 
 
 FUNCTIONAL REQUIREMENTS:           
 1. Additional information on covid 19 IS given in read more
-2.Each side navigation icon has its specific contents.
-3.Vaccinated and non-vaccinated are also mentioned with the percentage(%).
-4.Vaccine: 1st  and 2nd dose are vaccinated by 54.9% of the people in india currently
-5.Affected people of covid 19 are differentiated by active,confirmed,deceased,recovered.
-6.The total number of people vaccinated doses are also administrated.
-7.The tabular column referred here is mentioned the number of people affected by covid 19 are differentiated by state wise  and differentiated by active,conformed, deceased,recovered.
-8.Indian map mentioned here indicates the states with coloured effects mention the covid affected and delivers contents of states.
-9.The site shows the increase and decrease in the economic changes during covid period.
-10.this website enables the availability of hospitals
-11.covid tracker enables public to see the variance of the conformed cases to stay cautious and also red alert will be shown
+2. Each side navigation icon has its specific contents.
+3. Vaccinated and non-vaccinated are also mentioned with the percentage(%).
+4. Vaccine: 1st  and 2nd dose are vaccinated by 54.9% of the people in india currently
+5. Affected people of covid 19 are differentiated by active,confirmed,deceased,recovered.
+6. The total number of people vaccinated doses are also administrated.
+7. The tabular column referred here is mentioned the number of people affected by covid 19 are differentiated by state wise  and differentiated by active,conformed, deceased,recovered.
+8. Indian map mentioned here indicates the states with coloured effects mention the covid affected and delivers contents of states.
+9. The site shows the increase and decrease in the economic changes during covid period.
+10. this website enables the availability of hospitals
+11. covid tracker enables public to see the variance of the conformed cases to stay cautious and also red alert will be shown
  
  
 OUTPUT/ POST CONDITION: 
@@ -38,11 +38,11 @@ AVAILABILITY:
        99.99 % Availability 
 
 STANDARD FEATURES:
-       1.Scalability 
-       2.Maintainability 
-       3.Usability 
-       4.Availability 
-       5.Failover 
+       1. Scalability 
+       2. Maintainability 
+       3. Usability 
+       4. Availability 
+       5. Failover 
 
 LOGGING AND AUDITING:
  The system should support logging(app/web/DB) & auditing at all levels. 
@@ -90,11 +90,11 @@ userNavigation bar \
 
 2.Signup:design a signup page component,where the new user has options to signup by providing their basic details
 a.Ids:
-     1.User name
-     2.date
-     3.place
-     3.covid tracker
-     4.submit
+     1. User name
+     2. date
+     3. place
+     3. covid tracker
+     4. submit
 
 
 BACKEND: 
@@ -103,8 +103,8 @@ Class and Method description.
 MODEL LAYERS:
 1.User Model:This class store the user type and date information.
 a.Attributes:
-             1.user name: string
-             2.date:int
+             1. user name: string
+             2. date:int
  
 CONTROL LAYER:
 2.Singnup Controller:This class control the user signup
