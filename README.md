@@ -34,7 +34,7 @@ Performance 
 4.admin application<2sec
 
 Availability 
-       99.99 % Availability 
+       99.99 percentage availability 
 
 Standard Features 
        Scalability 
