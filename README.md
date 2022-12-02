@@ -7,7 +7,7 @@ Users of the System: 
 2.USER
 
 FUNCTIONAL REQUIREMENTS:           
-1. Additional information on covid 19 IS given in read more.
+1.Additional information on covid 19 IS given in read more.
 2.Each side navigation icon has its specific contents.
 3.Vaccinated and non-vaccinated are also mentioned with the percentage(%).
 4.Vaccine: 1st  and 2nd dose are vaccinated by 54.9% of the people in India currently.
