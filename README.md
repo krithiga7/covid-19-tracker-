@@ -1,6 +1,6 @@
 # covid-19-tracker-
 OBJECTIVE: 
-         Covid 19 tracker is an website used for tracking and analysing the cases and vaccinated people in India
+          Covid 19 tracker is an website used for tracking and analysing the cases and vaccinated people in India
 
 Users of the System: 
 1.ADMIN 
