@@ -18,7 +18,7 @@ FUNCTIONAL REQUIREMENTS:           
 9.The site shows the increase and decrease in the economic changes during covid period.
  
  
-OUTPUTt/ POST CONDIYION: 
+OUTPUT/ POST CONDITION: 
 Covid  19 tracker with real time data and easy to access website
 
 NON-FUNCTIONAL REQUIREMENTS:
@@ -43,20 +43,17 @@ STANDARD FEATURES:
        5.Failover 
 
 LOGGING AND AUDITING:
- The system should support logging(app/web/DB) & auditing at all levels 
+ The system should support logging(app/web/DB) & auditing at all levels. 
 
 CLOUD:
- The Solution should be made Cloud-ready and should have a minimum impact when moving away to Cloud infrastructure 
-
+ The Solution should be made Cloud-ready and should have a minimum impact when moving away to Cloud infrastructure. 
+ 
 Browser Compatible 
-All latest browsers 
- 
+All latest browsers. 
 TECHNOLOGY STACK:
 1.HTML
 2.CSS
-3.Java Script
- 
-
+3.Java Script.
 WEBSITE ASSUMPTIONS: 
 1.   The website is first loaded.
 2.   The real time data with  case conformed  data is displayed .
@@ -64,7 +61,6 @@ WEBSITE ASSUMPTIONS: 
 4.   Pictorial representation is dsplayed at the bottom of website .
 5.   queries box is inserted at the bottom right corner of the website.
 
- 
 VALIDATIONS: 
 1.   Website does’nt require any validation
 
@@ -80,20 +76,6 @@ Action URL Method Response.
 1.get all data/admin GET array of data.
 2.add records/admin/add record POST record added.
 3.record edit/admin/record edit/{id}GET all given data of particular id.
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 FRONTEND:  
 PUBLIC: 
 
@@ -102,7 +84,7 @@ Ids: 
 userNavigation bar \
 
 BACKEND: 
-Class and Method description:
+Class and Method description.
 
 MODEL LAYERS:
 1.User Model:This class store the user type and date information.
