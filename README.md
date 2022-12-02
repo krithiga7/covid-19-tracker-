@@ -75,6 +75,11 @@ Action Url Method Response
 1. get in website
 2. Signup/signup POST true/false
 3. insert date and time
+ADMIN:
+Action URL Method Response
+1.get all data/admin GET array of data
+2.add records/admin/add record POST record added
+3.record edit/admin/record edit/{id}GET all given data of particular id
 
 
 
