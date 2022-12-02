@@ -53,13 +53,13 @@ All latest browsers. 
 TECHNOLOGY STACK:
 1.HTML
 2.CSS
-3.Java Script.
+3.Java Script
 WEBSITE ASSUMPTIONS: 
-1.   The website is first loaded.
-2.   The real time data with  case conformed  data is displayed .
-3.   Navigation pane is on left top corner containing the other information are displayed. 
-4.   Pictorial representation is dsplayed at the bottom of website .
-5.   queries box is inserted at the bottom right corner of the website.
+1.The website is first loaded.
+2.The real time data with  case conformed  data is displayed .
+3.Navigation pane is on left top corner containing the other information are displayed. 
+4.Pictorial representation is dsplayed at the bottom of website .
+5 queries box is inserted at the bottom right corner of the website.
 
 VALIDATIONS: 
 1.   Website doesn't require any validation
@@ -96,7 +96,7 @@ a.Attributes:
 CONTROL LAYER:
 2.Singnup Controller:This class control the user signup
 a.Methods:
-           1. SaveUser(UserModel user):This method helps to store users in the database and return true or false based on the database transactions.  
+1. SaveUser(UserModel user):This method helps to store users in the database and return true or false based on the database transactions.  
 
 
 
