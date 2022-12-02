@@ -3,10 +3,10 @@ Objective: 
                     Covid 19 tracker is an website used for tracking and analysing the cases and vaccinated people in india
 
 Users of the System: 
-1.   Admin 
-2.   Customer 
+1.   ADMIN
+2.   CUSTOMER
 
-Functional Requirements:           
+FUNCTIONAL REQUIREMENTS:           
  Additional information on covid 19 are given in read more
 Each side navigation icons has its own specific contents
 Vaccinated and non vaccinated are also mentioned with the percentage(%)
@@ -18,15 +18,15 @@ Indian map mentioned here indicates the states with coloured effects mention the
 The site shows the increase and decrease in the economic changes during covid period.
  
  
-Output/ Post Condition: 
+OUTPUTt/ POST CONDIYION: 
 Covid  19 tracker with real time data and easy to access website
 
-Non-Functional Requirements:
+NON-FUNCTIONAL REQUIREMENTS:
 Security 
 Secured website  
 Covid 19 tracker website may not access any private and sensitive data
 
-Performance 
+PERFORMANCE
 1.Peak Load Performance (durng covid period)
 2.Admin application<2sec
 3.Non peak load performance
