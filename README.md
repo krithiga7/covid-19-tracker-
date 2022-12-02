@@ -32,32 +32,32 @@ PERFORMANCE
 3.Non peak load performance
 4.admin application<2sec
 
-Availability 
+AVAILABILITY
        99.99 % Availability 
 
-Standard Features 
+STANDARD FEATURES:
        Scalability 
         Maintainability 
         Usability 
         Availability 
         Failover 
 
-Logging & Auditing 
+LOGGING AND AUDITING:
  The system should support logging(app/web/DB) & auditing at all levels 
 
-Cloud 
+CLOUD:
  The Solution should be made Cloud-ready and should have a minimum impact when moving away to Cloud infrastructure 
 
 Browser Compatible 
 All latest browsers 
  
-Technology Stack 
+TECHNOLOGY STACK:
 HTML
 CSS
 Java Script
  
 
-Website assumptions: 
+WEBSITE ASSUMPTIONS: 
 1.   The website is first loaded.
 2.   The real time data with  case conformed  data is displayed .
 3.   Navigation pane is on left top corner containing the other information are displayed. 
@@ -65,12 +65,12 @@ Website assumptions: 
 5.   queries box is inserted at the bottom right corner of the website.
 
  
-Validations: 
+VALIDATIONS: 
 1.   Website does’nt require any validation
 
-P roject Tasks: 
+PROJECT TASKS: 
 API Endpoints 
-User:
+USER:
 Action Url Method Response.
 1. get in website.
 2. Signup/signup POST true/false.
@@ -94,23 +94,23 @@ Action URL Method Response.
 
 
 
-Frontend:  
-Public: 
+FRONTENDd:  
+PUBLIC: 
 
 1.   Dashboard / Home: Design a home page component named (Name the component  HomePage for react app. Once the component is created in react app, name the jsx file as same as component name i.e HomePage.jsx file) that has the navigation bar and lists all the available products as grid elements with appropriate filter options. 
 Ids: 
 userNavigation bar \
 
-Backend: 
+BACKEND: 
 Class and Method description:
 
-Model Layer:
+MODEL LAYERS:
 1.User Model:This class store the user type and date information.
 a.Attributes:
              1.user name: string
              2.date:int
  
-Controller Layer:
+CONTROL LAYER:
 2.Singnup Controller:This class control the user signup
 a.Methods:
            1. SaveUser(UserModel user):This method helps to store users in the database and return true or false based on the database transactions.  
