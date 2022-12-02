@@ -1,10 +1,10 @@
 # covid-19-tracker-
-Objective: 
-                    Covid 19 tracker is an website used for tracking and analysing the cases and vaccinated people in india
+OBJECTIVE: 
+           Covid 19 tracker is an website used for tracking and analysing the cases and vaccinated people in india
 
 Users of the System: 
-1.   ADMIN
-2.   CUSTOMER
+1.ADMIN
+2.CUSTOMER
 
 FUNCTIONAL REQUIREMENTS:           
 1. Additional information on covid 19 are given in read more
@@ -26,13 +26,13 @@ NON-FUNCTIONAL REQUIREMENTS:
 2.Secured website  
 3.Covid 19 tracker website may not access any private and sensitive data
 
-PERFORMANCE
+PERFORMANCE:
 1.Peak Load Performance (durng covid period)
 2.Admin application<2sec
 3.Non peak load performance
 4.admin application<2sec
 
-AVAILABILITY
+AVAILABILITY:
        99.99 % Availability 
 
 STANDARD FEATURES:
@@ -98,7 +98,8 @@ FRONTEND:  
 PUBLIC: 
 
 1.   Dashboard / Home: Design a home page component named (Name the component  HomePage for react app. Once the component is created in react app, name the jsx file as same as component name i.e HomePage.jsx file) that has the navigation bar and lists all the available products as grid elements with appropriate filter options. 
-Ids: 
+
+ Ids: 
 userNavigation bar \
 
 BACKEND: 
