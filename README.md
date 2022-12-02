@@ -58,11 +58,11 @@ Java Script
  
 
 Website assumptions: 
-1.   The website is first loaded  
-2.   The real time data with  case conformed  data is displayed 
+1.   The website is first loaded.
+2.   The real time data with  case conformed  data is displayed .
 3.   Navigation pane is on left top corner containing the other information are displayed. 
-4.   Pictorial representation is dsplayed at the bottom of website 
-5.   queries box is inserted at the bottom right corner of the website
+4.   Pictorial representation is dsplayed at the bottom of website .
+5.   queries box is inserted at the bottom right corner of the website.
 
  
 Validations: 
@@ -71,15 +71,15 @@ Validations: 
 P roject Tasks: 
 API Endpoints 
 User:
-Action Url Method Response
-1. get in website
-2. Signup/signup POST true/false
-3. insert date and time
+Action Url Method Response.
+1. get in website.
+2. Signup/signup POST true/false.
+3. insert date and time.
 ADMIN:
-Action URL Method Response
-1.get all data/admin GET array of data
-2.add records/admin/add record POST record added
-3.record edit/admin/record edit/{id}GET all given data of particular id
+Action URL Method Response.
+1.get all data/admin GET array of data.
+2.add records/admin/add record POST record added.
+3.record edit/admin/record edit/{id}GET all given data of particular id.
 
 
 
