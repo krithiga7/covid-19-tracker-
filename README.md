@@ -35,7 +35,7 @@ PERFORMANCE:
 4.admin application<2sec
 
 AVAILABILITY:
-       99.99 % Availability. 
+       99.99% Availability. 
 
 STANDARD FEATURES:
        1.Scalability 
