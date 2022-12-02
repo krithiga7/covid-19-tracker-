@@ -30,9 +30,9 @@ NON-FUNCTIONAL REQUIREMENTS:
 
 PERFORMANCE:
 1.Peak Load Performance (durng covid period)
-2.Admin application<2sec
-3.Non peak load performance
-4.admin application<2sec
+2.Admin application<2sec.
+3.Non peak load performance.
+4.admin application<2sec.
 
 AVAILABILITY:
        99.99% Availability. 
@@ -53,11 +53,11 @@ CLOUD:
 Browser Compatible 
 All latest browsers. 
 TECHNOLOGY STACK:
-1.HTML
-2.CSS
-3.Java Script
+1.HTML.
+2.CSS.
+3.Java Script.
 WEBSITE ASSUMPTIONS: 
-1.The website is first loaded.
+1.The website is first loaded
 2.The real time data with  case conformed  data is displayed .
 3.Navigation pane is on left top corner containing the other information are displayed. 
 4.Pictorial representation is dsplayed at the bottom of website .
