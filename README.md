@@ -3,7 +3,7 @@ OBJECTIVE: 
          Covid 19 tracker is an website used for tracking and analysing the cases and vaccinated people in india
 
 Users of the System: 
-1.ADMIN
+1.ADMIN 
 2.CUSTOMER
 
 FUNCTIONAL REQUIREMENTS:           
@@ -16,6 +16,8 @@ FUNCTIONAL REQUIREMENTS:           
 7.The tabular column referred here is mentioned the number of people affected by covid 19 are differentiated by state wise  and differentiated by active,conformed, deceased,recovered.
 8.Indian map mentioned here indicates the states with coloured effects mention the covid affected and delivers contents of states.
 9.The site shows the increase and decrease in the economic changes during covid period.
+10.this website enables the availability of hospitals
+11
  
  
 OUTPUT/ POST CONDITION: 
