@@ -1,6 +1,6 @@
 # covid-19-tracker-
 Objective: 
-                    Covid 19 tracker is an website used for tracking and analysing the cases and vaccinated people in india
+                    Covid 19 tracker is an website used for tracking and analysing the cases and vaccinated people in india. It also shows the rate of change in cases in India.
 
 Users of the System: 
 1.   Admin 
@@ -15,7 +15,8 @@ Affected people of covid 19 are differentiated by active ,confirmed , deceased r
 Total number of people vaccinated doses are also administrated
 The tabular column reffered here is mentioned the number of people affected by covid 19 are differentiated by state wse  and differentiated  by active conformed deceased recovered
 Indian map mentioned here indicates th states with coloured effects menton the covid affected and delivers contents of states
- .
+The pie chart displays the record of people high-flown for covid. We can clearly observe the covid record in India in such states.
+The map clearly shows the variation of increment and decrement of covid in India.
  
  
 Output/ Post Condition: 
@@ -33,7 +34,7 @@ Performance 
 4.admin application<2sec
 
 Availability 
-       99.99 % Availability 
+       99.99 percentage availability 
 
 Standard Features 
        Scalability 
@@ -91,22 +92,6 @@ Ids: 
 userNavigation bar \
 
 Backend: 
-Class and Method description:
-
-Model Layer:
-1.User Model:This class store the user type and date information.
-a.Attributes:
-             1.user name: string
-             2.date:int
-Controller Layer:
-2.Singnup Controller:This class control the user signup
-a.Methods:
-           1. SaveUser(UserModel user):  
-
-
-
-
-
 
                    
 
