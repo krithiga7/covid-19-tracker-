@@ -15,6 +15,7 @@ Affected people of covid 19 are differentiated by active ,confirmed , deceased r
 Total number of people vaccinated doses are also administrated
 The tabular column reffered here is mentioned the number of people affected by covid 19 are differentiated by state wse  and differentiated  by active conformed deceased recovered
 Indian map mentioned here indicates the states with coloured effects menton the covid affected and delivers contents of states.
+The site shows the increase and decrease in the economic changes during covid period.
  
  
 Output/ Post Condition: 
