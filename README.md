@@ -79,6 +79,7 @@ Action URL Method Response.
 1.get all data/admin GET array of data.
 2.add records/admin/add record POST record added.
 3.record edit/admin/record edit/{id}GET all given data of particular id.
+4.get all record/admin/records GET array of records 
 FRONTEND:  
 PUBLIC: 
 
