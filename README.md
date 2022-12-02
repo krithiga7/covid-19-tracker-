@@ -1,25 +1,25 @@
 # covid-19-tracker-
 OBJECTIVE: 
-           Covid 19 tracker is an website used for tracking and analysing the cases and vaccinated people in india
+           Covid 19 tracker is an website used for tracking and analysing the cases and vaccinated people in India.
 
 Users of the System: 
 1.ADMIN
 2.CUSTOMER
 
 FUNCTIONAL REQUIREMENTS:           
-1. Additional information on covid 19 are given in read more
-2.Each side navigation icons has its own specific contents
-3.Vaccinated and non vaccinated are also mentioned with the percentage(%)
-4.Vaccine: 1st  and 2nd dose are vaccinated by 54.9% of the people in india currently
+1. Additional information on covid 19 are given in read more.
+2.Each side navigation icons has its own specific contents.
+3.Vaccinated and non vaccinated are also mentioned with the percentage(%).
+4.Vaccine: 1st  and 2nd dose are vaccinated by 54.9% of the people in India currently.
 5.Affected people of covid 19 are differentiated by active ,confirmed , deceased, recovered.
-6.Total number of people vaccinated doses are also administrated
+6.Total number of people vaccinated doses are also administrated.
 7.The tabular column referred here is mentioned the number of people affected by covid 19 are differentiated by state wise  and differentiated  by active,conformed, deceased,recovered.
-8.Indian map mentioned here indicates the states with coloured effects mention the covid affected and delivers contents of states.
+8.India map mentioned here indicates the states with coloured effects mention the covid affected and delivers contents of states.
 9.The site shows the increase and decrease in the economic changes during covid period.
  
  
 OUTPUT/ POST CONDITION: 
-Covid  19 tracker with real time data and easy to access website
+Covid  19 tracker with real time data and easy to access website.
 
 NON-FUNCTIONAL REQUIREMENTS:
 1.Security 
@@ -27,7 +27,7 @@ NON-FUNCTIONAL REQUIREMENTS:
 3.Covid 19 tracker website may not access any private and sensitive data
 
 PERFORMANCE:
-1.Peak Load Performance (durng covid period)
+1.Peak Load Performance (during covid period)
 2.Admin application<2sec
 3.Non peak load performance
 4.admin application<2sec
